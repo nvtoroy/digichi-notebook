@@ -1,1 +1,1 @@
-# digichi-notebook.github.io
+# digichi-notebook
